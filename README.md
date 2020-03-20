@@ -2,7 +2,7 @@
 
 English to Korean and Synonyms & Korean to English and Synonyms (E2K2E) is a combined of two dictionaries for translating from **English** to **Korean** and **Korean** to **English**.
 
-![E2K2E]()
+![E2K2E](https://github.com/dolanskurd/E2K2E/blob/master/img/E2K2E.png)
 
 ## Installation
 
@@ -37,6 +37,33 @@ Download and install the required and recommended software / apps for using `MDi
   [**Downalod Mdict (Free)**](https://play.google.com/store/apps/details?id=cn.mdict)
 
   [**Download BlueDict** (_Free but its full version needs to be purchased_)](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict&hl=en)
+## Screenshots
+
+![E2K2E1](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0388.JPG)
+
+![E2K2E2](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0389.JPG)
+
+![E2K2E3](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0390.JPG)
+
+![E2K2E](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0391.JPG)
+
+![E2K2E4](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0392.JPG)
+
+![E2K2E5](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0393.JPG)
+
+![E2K2E6](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/IMG_E0394.JPG)
+
+![E2K2E7](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/001.png)
+
+![E2K2E8](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/002.png)
+
+![E2K2E9](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/003.png)
+
+![E2K2E10](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/004.png)
+
+![E2K2E11](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/005.png)
+
+![E2K2E12](https://github.com/dolanskurd/E2K2E/blob/master/img/Screenshots/006.png)
 
 ## Dictionary Files
 
@@ -48,13 +75,13 @@ Note:
 
 - **CSS** **file** **SHOULD NOT be renamed**
 
-[Download MDX](https://github.com/dolanskurd/HenbaneBorine/blob/master/HenbaneBorine/Henbane%20Borine.mdx)
+[Download MDX](https://github.com/dolanskurd/E2K2E/blob/master/E2K2E.mdx)
 
 Download MDD (N/A)
 
-[Download CSS]()
+[Download CSS](https://github.com/dolanskurd/E2K2E/blob/master/E2K2E.css)
 
-[Download Dictionary Icon]()
+[Download Dictionary Icon](https://github.com/dolanskurd/E2K2E/blob/master/img/E2K2E.png)
 
 ## Usage Instructions
 
