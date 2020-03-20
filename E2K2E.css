@@ -1,0 +1,127 @@
+.entry {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1414f8;
+}
+
+.pron {
+  font-family: "Calibri", Arial, Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  color: #869586;
+}
+.pron::before {
+  content: "/";
+  color: #869586;
+}
+.pron::after {
+  content: "/";
+  color: #869586;
+}
+.pos {
+  font-family: Arial, Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: mediumseagreen;
+  font-variant: small-caps;
+}
+.after_pos {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  color: crimson;
+}
+.korean {
+  font-family: "Apple SD Gothic Neo", "Batang", "Apple Myungjo", Verdana, Tahoma,
+    sans-serif;
+  font-size: 20px;
+  color: darkred;
+}
+
+.en_eq {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  color: #131313;
+  line-height: 25pt;
+}
+
+.box {
+  text-align: center;
+}
+.title {
+  font-family: "Calibri", Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: midnightblue;
+}
+
+.ver {
+  font-family: "Calibri", Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  color: firebrick;
+}
+.extra {
+  font-family: "Calibri", Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  color: #131313;
+}
+a {
+  text-decoration: none;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 130px;
+}
+
+/* Korean to English and Synonyms */
+
+.ko_entry {
+  font-family: "Apple SD Gothic Neo", "Batang", "Apple Myungjo", Verdana, Tahoma,
+    sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #1414f8;
+}
+
+.english {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+  color: #842121;
+}
+
+.ko_eq {
+  font-family: "Apple SD Gothic Neo", "Batang", "Apple Myungjo", Verdana, Tahoma,
+    sans-serif;
+  font-size: 19px;
+  color: #131313;
+  line-height: 25pt;
+}
+.ko_pos {
+  font-family: Arial, Verdana, Tahoma, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #e57214;
+  font-variant: small-caps;
+}
+.after_pos_ko {
+  font-family: "Apple SD Gothic Neo", "Batang", "Apple Myungjo", Verdana, Tahoma,
+    sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #191919;
+}
+.ko_pron {
+  font-family: "Calibri", Arial, Verdana, Tahoma, sans-serif;
+  font-size: 17px;
+  color: #869586;
+}
+.ko_pron::before {
+  content: "/";
+  color: #869586;
+}
+.ko_pron::after {
+  content: "/";
+  color: #869586;
+}
